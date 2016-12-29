@@ -12,11 +12,7 @@
     }
   ],
   "require": {
-    "php": ">=5.6",
-    "DigitalState/Platform-Admin-Bundle" : "dev-master",
-    "DigitalState/Platform-Entity-Bundle" : "dev-master",
-    "DigitalState/Platform-User-Bundle" : "dev-master",
-    "DigitalState/Platform-Widget-Bundle" : "dev-master"
+    "php": ">=5.6"
   },
   "autoload": {
     "psr-0": { "Ds\\Bundle\\SecurityBundle": "" }
