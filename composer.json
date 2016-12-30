@@ -1,0 +1,27 @@
+{
+  "name": "digitalstate/platform-security-bundle",
+  "type": "symfony-bundle",
+  "description": "Digital State Security Bundle",
+  "homepage": "https://github.com/DigitalState/Platform-Security-Bundle.git",
+  "keywords": ["Oro", "Notifications"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Digital State, Inc",
+      "homepage": "http://www.digitalState.ca"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-0": { "Ds\\Bundle\\SecurityBundle": "" }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.x-dev"
+    }
+  }
+}
