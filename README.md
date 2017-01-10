@@ -1,6 +1,6 @@
 # Platform-Security-Bundle
 
-The Security bundle extends the OroSecurityBundle and provides additional core security functionality. 
+The Security bundle extends the [OroSecurityBundle](https://github.com/orocrm/platform/tree/master/src/Oro/Bundle/SecurityBundle) and provides additional core security functionality. 
 
 ## Table of Contents
 
